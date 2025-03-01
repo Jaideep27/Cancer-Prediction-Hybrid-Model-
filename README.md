@@ -1,4 +1,4 @@
-# Breast Cancer Prediction with Machine Learning Ensemble
+# Breast Cancer Prediction with Ensembled Machine Learning 
 
 ## Project Overview
 This project focuses on predicting breast cancer diagnoses using machine learning algorithms. By analyzing features from the Wisconsin Breast Cancer dataset, our models can classify tumors as benign or malignant with high accuracy. The project implements multiple machine learning approaches and culminates in a hybrid model that achieves superior performance through an ensemble technique.
